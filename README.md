@@ -56,13 +56,13 @@
    |   <font color=#dc2f02>希尔拉</font>   |  （88，994）   |  部队攻击力 +5%   |  部队攻击力 +5%   |            <font color=#FFD53E>全战区生效</font>             |
    |    <font color=#dc2f02>米莱</font>    |  （750，405）  |  部队攻击力 +5%   |  部队攻击力 +5%   |            <font color=#FECF3E>全战区生效</font>             |
    |  <font color=#dc2f02>科万琼德</font>  |  （928，333）  |  部队攻击力 +5%   |  部队攻击力 +5%   |            <font color=#FDC43F>全战区生效</font>             |
-   |   <font color=#A1FF0A>凯拉克</font>   | （892，1068）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>1%</font> |
-   |   <font color=#A1FF0A>布鲁克</font>   | （192，1278）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>1%</font> |
-   |   <font color=#A1FF0A>本图西</font>   |  （194，788）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>1%</font> |
-   |  <font color=#A1FF0A>厄金坦德</font>  |  （576，193）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>1%</font> |
-   |  <font color=#A1FF0A>里欧涅斯</font>  |  （998，261）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>1%</font> |
-   |   <font color=#A1FF0A>斯洛德</font>   | （1244，505）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>1%</font> |
-   |   <font color=#A1FF0A>明克斯</font>   | （1205，893）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>1%</font> |
+   |   <font color=#A1FF0A>凯拉克</font>   | （892，1068）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>2%</font> |
+   |   <font color=#A1FF0A>布鲁克</font>   | （192，1278）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>2%</font> |
+   |   <font color=#A1FF0A>本图西</font>   |  （194，788）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>2%</font> |
+   |  <font color=#A1FF0A>厄金坦德</font>  |  （576，193）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>2%</font> |
+   |  <font color=#A1FF0A>里欧涅斯</font>  |  （998，261）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>2%</font> |
+   |   <font color=#A1FF0A>斯洛德</font>   | （1244，505）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>2%</font> |
+   |   <font color=#A1FF0A>明克斯</font>   | （1205，893）  | 全部资源产量 +12% | 全部资源产量 +14% | <font color=#A1FF0A>全部资源产量</font> <font color=#ffb703>⇧</font><font color=#0AFF99>2%</font> |
    |   <font color=#0AEFFF>马耶纳</font>   | （930，1275）  |   建造速度 +7%    |   建造速度 +8%    | <font color=#06d6a0>建造速度</font> <font color=#ffb703>⇧</font><font color=#0AFF99>1%</font> |
    |   <font color=#0AEFFF>西加拉</font>   |  （228，892）  |   建造速度 +7%    |   建造速度 +8%    | <font color=#06d6a0>建造速度</font> <font color=#ffb703>⇧</font><font color=#0AFF99>1%</font> |
    |    <font color=#0AEFFF>麦西</font>    |  （227，431）  |   建造速度 +7%    |   建造速度 +8%    | <font color=#06d6a0>建造速度</font> <font color=#ffb703>⇧</font><font color=#0AFF99>1%</font> |
@@ -95,23 +95,23 @@
    |   <font color=#70e000>霍尔丹</font>    | （1312，891）  |   采集速度 +7%    |   采集速度 +8%    | <font color=#70e000>采集速度</font> <font color=#ffb703>⇧</font><font color=#0AFF99>1%</font> |
    |   <font color=#70e000>祖伏特</font>    | （1243，1103） |   采集速度 +7%    |   采集速度 +8%    | <font color=#70e000>采集速度</font> <font color=#ffb703>⇧</font><font color=#0AFF99>1%</font> |
    |                                        |                |                   |                   |                                                              |
-   |  <font color=#06d6a0>卡埃尔夫</font>   | （1208，1241） | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |  <font color=#06d6a0>卡瑞亚斯</font>   | （929，1348）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |   <font color=#06d6a0>拉米亚</font>    | （578，1173）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |   <font color=#06d6a0>莱里亚</font>    | （580，1347）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |   <font color=#06d6a0>哥塔伦</font>    | （367，1277）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |   <font color=#06d6a0>特拉瓦</font>    |  （53，1066）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |   <font color=#06d6a0>菲雅利</font>    |  （88，894）   | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |   <font color=#06d6a0>图拉尼</font>    |  （227，717）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |    <font color=#06d6a0>肖农</font>     |  （159，437）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |   <font color=#06d6a0>盖伦德</font>    |   （49，87）   | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |    <font color=#06d6a0>乃斯</font>     |  （297，127）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |   <font color=#06d6a0>伯莱昂</font>    |  （613，53）   | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |   <font color=#06d6a0>萨塔尔</font>    |  （647，263）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |  <font color=#06d6a0>尼尔海姆</font>   | （1029，157）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |  <font color=#06d6a0>卡兹古尔</font>   | （1348，261）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |   <font color=#06d6a0>马卡斯</font>    | （1348，611）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
-   |  <font color=#06d6a0>阿纳海姆</font>   | （1347，959）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>1%</font> |
+   |  <font color=#06d6a0>卡埃尔夫</font>   | （1208，1241） | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |  <font color=#06d6a0>卡瑞亚斯</font>   | （929，1348）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |   <font color=#06d6a0>拉米亚</font>    | （578，1173）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |   <font color=#06d6a0>莱里亚</font>    | （580，1347）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |   <font color=#06d6a0>哥塔伦</font>    | （367，1277）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |   <font color=#06d6a0>特拉瓦</font>    |  （53，1066）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |   <font color=#06d6a0>菲雅利</font>    |  （88，894）   | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |   <font color=#06d6a0>图拉尼</font>    |  （227，717）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |    <font color=#06d6a0>肖农</font>     |  （159，437）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |   <font color=#06d6a0>盖伦德</font>    |   （49，87）   | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |    <font color=#06d6a0>乃斯</font>     |  （297，127）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |   <font color=#06d6a0>伯莱昂</font>    |  （613，53）   | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |   <font color=#06d6a0>萨塔尔</font>    |  （647，263）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |  <font color=#06d6a0>尼尔海姆</font>   | （1029，157）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |  <font color=#06d6a0>卡兹古尔</font>   | （1348，261）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |   <font color=#06d6a0>马卡斯</font>    | （1348，611）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
+   |  <font color=#06d6a0>阿纳海姆</font>   | （1347，959）  | 军官经验获取 +12% | 军官经验获取 +14% | <font color=#06d6a0>军官经验获取</font> <font color=#ffb703>⇧</font><font color=#a7c957>2%</font> |
    |                                        |                |                   |                   |                                                              |
    |  <font color=#f77f00>瓦特维尔</font>   | （1135，1312） |   行军速度 +7%    |   行军速度 +8%    | <font color=#f77f00>行军速度</font> <font color=#ffb703>⇧</font><font color=#FFE9AD>1%</font> |
    | <font color=#f77f00>杜恩卡纳尔</font>  | （962，1207）  |   行军速度 +7%    |   行军速度 +8%    | <font color=#f77f00>行军速度</font> <font color=#ffb703>⇧</font><font color=#FFE9AD>1%</font> |
